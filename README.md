@@ -7,3 +7,4 @@ Import-Module -Name PSReadLine
 Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Windows
+-RequiredVersion 2.2.X
